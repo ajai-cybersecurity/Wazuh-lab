@@ -247,6 +247,25 @@ To improve detection capability in production environments:
 * Conduct **regular attack simulations**.
 * Collect logs from **firewalls, DNS, and applications**.
 
+# 📸 Screenshots
+
+## Wazuh Dashboard
+
+![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
+
+## Reverse Shell Listener
+
+![Reverse Shell](screenshots/reverse-shell.png)
+
+## Custom Detection Rules
+
+![Detection Rules](screenshots/detection-rules.png)
+
+## SIEM Alerts
+
+![Alerts](screenshots/wazuh-alerts.png)
+
+
 ---
 
 # 📌 Conclusion

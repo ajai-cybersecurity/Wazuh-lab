@@ -251,19 +251,19 @@ To improve detection capability in production environments:
 
 ## Wazuh Dashboard
 
-![Wazuh Dashboard](screenshots/wazuh-dashboard.png)
+![Wazuh Dashboard](screenshots/Fig-1.png)
 
 ## Reverse Shell Listener
 
-![Reverse Shell](screenshots/reverse-shell.png)
+![Reverse Shell](screenshots/Fig-2.png)
 
 ## Custom Detection Rules
 
-![Detection Rules](screenshots/detection-rules.png)
+![Detection Rules](screenshots/Fig-3.png)
 
 ## SIEM Alerts
 
-![Alerts](screenshots/wazuh-alerts.png)
+![Alerts](screenshots/Fig-4.png)
 
 
 ---
